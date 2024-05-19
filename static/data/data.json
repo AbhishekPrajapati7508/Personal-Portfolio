@@ -1,26 +1,25 @@
 {
     "Home": {
         "name": [
-            "Aditya",
-            "Pathak"
+            "Abhishek",
+            "Prajapati"
         ],
         "designation": "Student | Researcher | Patentee | Problem Solver",
-        "about": "Hi! I'm Aditya Pathak, I'm from Bihar and currently I'm pursuing my Bachelor of Technology from Chandigarh Group of College, Landran. Talking about my skills I'm proficient in Python programming language and Full-Stack Web development. Other than these I have made several project for which I have filed patents and wrote Research papers. <br>In terms of Real world projects and experience I have built a website for our College Chandigarh Group of College to organize a confrence for authors of Research Papers. The papers were published in <span><strong>Springer</strong></span> and the conference was sponsored by <strong>All India Council of Technical Education (AICTE).</strong> <br> Moreover, I have won a few inter-college coding contests and ideathons. Other than these I have presesnted my project to the head of <strong>Niti Aayog</strong> on 1<sup>st</sup> December 2021 and to the <strong>Speaker of Punjab Vidhan Sabha</strong> on the ocassion of Parivartan in 2022"
+        "about": "Hi! I'm Abhishek Prajapati, I'm from Ludhiana Punjab and currently I'm pursuing my Bachelor of Technology from Chandigarh Group of College, Landran. Talking about my skills I'm proficient in programming language and Full-Stack Web development. Other than these I have made several project for which I have filed patents and wrote Research papers. <br>In terms of Real world projects and experience I have built a website for our College Chandigarh Group of College to organize a confrence for authors of Research Papers. The papers were published in <span><strong>Springer</strong></span> and the conference was sponsored by <strong>All India Council of Technical Education (AICTE).</strong> <br> Moreover, I have won a few inter-college coding contests and ideathons. Other than these I have presesnted my project to the head of <strong>Niti Aayog</strong> on 1<sup>st</sup> December 2021 and to the <strong>Speaker of Punjab Vidhan Sabha</strong> on the ocassion of Parivartan in 2022"
     },
     "Projects": {
-        "Object Detection System for Visually impaired Persons": [
-            "The project is using a deep learning algorithm YOLO v5 which is about 2.5 times faster than other CNN algorithms",
-            "As output, it tells the user the name of object present in front of the user/camera",
-            "It can be used as motion sensor camera of surveillance camera"
+        "Train Ticket Reservation System": [
+            "The primary objective of this project is to develop a user-friendly web-based platform that allows passengers to search for train routes, view available seats, and book tickets seamlessly. By leveraging modern web technologies and robust backend systems, our goal is to create a reliable and efficient ticket reservation system that caters to the diverse needs of travelers.",
+            "For Backend we used java and its Frameworks like servlets and for FrontEnd we used Html css and java swing"
         ],
-        "Monument Identification and detailing device": [
-            "The project is using a deep learning algorithm YOLO v5 which is about 2.5 times faster than other CNN algorithms",
-            "As output, it tells the user the ndetails of the Monument such as the place where it is situated, current temparature of the place, distance of the monument from user's current location etc.",
-            "Other than these, it can be used as an assistant by commomn people or by local guides to promote tourism"
+        "Multipurpose WebApp with RTC": [
+            "A multipurpose web app with RTC (Real-Time Communication) capabilities could offer a wide range of functionalities, leveraging real-time data exchange between users",
+            "Frontend Technologies: HTML, CSS, and JavaScript (with frameworks like React.js, Angular, or Vue.js) for creating the user interface and handling client-side interactions.",
+            "Backend Technologies: Node.js, Python (with frameworks like Django or Flask), Ruby on Rails, or others for server-side logic, data processing, and communication with databases."
         ],
-        "Health & Habit Tracker": [
-            "The project receives some useful insights such as activity minutes, heart rate from Google Fit API, location info from IP address and and store these data in a database.",
-            "These data are later used to extract information like Blood-Pressure, Sugar Level and Pulse rate of the user in real time"
+        "ATM Simulator using java": [
+            "An ATM (Automated Teller Machine) simulator using Core Java is a software application that mimics the functionality of a real ATM machine. It allows users to perform banking transactions such as withdrawing cash, depositing funds, checking balances, and transferring money between accounts in a simulated environment.",
+            "It is minor project in which we used core java and its all basics concepts "
         ]
     },
     "Patents": {
@@ -62,11 +61,11 @@
     },
     "Footer": {
         "contact": {
-            "mailto:adityapathak2874@gmail.com": "E-Mail",
-            "phone:+91 8840 2073 63": "Phone",
-            "https://in.linkedin.com/in/aditya-pathak-183597213": "LinkedIn",
-            "https://www.github.com/Aditya-K-Pathak": "GitHub",
-            "https://leetcode.com/adityapathak2874/": "LeetCode"
+            "mailto:mr.prajapati90232@gmail.com": "E-Mail",
+            "phone:+91 7508 3535 27": "Phone",
+            "https://www.linkedin.com/in/abhishek-prajapati-72125b208/": "LinkedIn",
+            "https://github.com/AbhishekPrajapati7508": "GitHub",
+            "https://leetcode.com/Abhi708769/": "LeetCode"
         },
         "Links": {
             "Home": "../",
